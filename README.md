@@ -20,3 +20,7 @@ var r = 0;//ルビタイプの指定数値を変えることでルビのタイ�
 var grade =1;
 
 同様に数値を変えることで設定を変える。1の場合はすべての漢字にルビをふる。
+
+
+下記サイトの引用です  
+https://github.com/kyukyunyorituryo/add_ruby  
